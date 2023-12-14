@@ -1,4 +1,4 @@
-const Book = require('./Book');
+const Book = require ('./Book');
 const User = require('./User');
 
-module.exports = { User, Book };
+module.exports = { Book, User };
