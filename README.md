@@ -12,7 +12,7 @@ The Book Search engine allows the user to search for book titles 10 books at a t
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
-- [CodeSource](#code Source)
+- [CodeSource](#codesource)
 
 ## Installation
 
@@ -54,5 +54,5 @@ There are no test for this app as of current.
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at [richard.au@cuanschutz.edu](mailto:richard.au@cuanschutz.edu). You can find more of my work at [Richard-Au1](https://github.com/Richard-Au1).
 
-## Code Source
+## Codesource
 In package.json for main and server a learning assistant help out with swapping depencies into the right files. As well as letting me know to change a line in the vite.config.js from '/api' to '/graphql' to allow the server to connect to graphql. After sometime looking into why the books were not displaying onto the saved books page and mapping it out on the page. I check with chat gpt to see what can be done. They said to change the data to check first to see if userData.savedBooks exist first before checking length in order to display the books. 
