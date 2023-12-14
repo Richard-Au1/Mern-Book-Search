@@ -18,7 +18,6 @@
   },
   "dependencies": {
     "@apollo/client": "^3.8.8",
-    "apollo-server-express": "^3.13.0",
     "vite": "^5.0.7"
   }
 }
